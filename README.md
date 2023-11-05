@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 👋Hey there! I'm Duhan
+# 👋Hey there! I'm Duhan
 👾 I don’t always test my code, but when I do, I do it in production.<br>
 🚀 Launching projects faster than my coffee machine.<br>
 💡 Master of `git commit -m "oops, fix typo"`.<br>
