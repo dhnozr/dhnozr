@@ -7,9 +7,7 @@
 <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="420" align="right"  />
  I'm a Junior Frontend Developer with a passion for creating user-friendly, dynamic web applications. I believe in writing clean, efficient code and am constantly learning new ways to enhance user experience through technology.<br>
  <br>
- ## My Skills <img src="https://github.com/dhnozr/dhnozr/assets/115792609/7895c9d0-bdd9-4832-a326-d1209e5dcdc0
-"/>
-/>
+ ## My Skills 
 👾 I don’t always test my code, but when I do, I do it in production.<br>
 💡 Master of `git commit -m "oops, fix typo"`.<br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
