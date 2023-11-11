@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="420" align="right"  />
 <div>
   I'm a Junior Frontend Developer with a passion for creating user-friendly, dynamic web applications. I believe in writing clean, efficient code and am constantly learning new ways to enhance user experience through technology.
-  ## My Skills
+  <h2>My Skills</h2>
   <p>👾 I don’t always test my code, but when I do, I do it in production.</p>
   <p>💡 Master of `git commit -m "oops, fix typo"`</p>
 </div> 
