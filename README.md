@@ -5,6 +5,7 @@
 </p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
  I'm a Junior Frontend Developer with a passion for creating user-friendly, dynamic web applications. I believe in writing clean, efficient code and am constantly learning new ways to enhance user experience through technology.<br>
+ ![](https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif)
  <br>
 👾 I don’t always test my code, but when I do, I do it in production.<br>
 💡 Master of `git commit -m "oops, fix typo"`.<br>
