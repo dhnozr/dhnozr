@@ -1,9 +1,9 @@
 # 👋Hey there! I'm Duhan
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
+<img src"https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png"/>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
  I'm a Junior Frontend Developer with a passion for creating user-friendly, dynamic web applications. I believe in writing clean, efficient code and am constantly learning new ways to enhance user experience through technology.
 👾 I don’t always test my code, but when I do, I do it in production.<br>
