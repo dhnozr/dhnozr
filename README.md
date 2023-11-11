@@ -3,7 +3,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-<img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="420"  />
+
+<img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="420" align="right"  />
  I'm a Junior Frontend Developer with a passion for creating user-friendly, dynamic web applications. I believe in writing clean, efficient code and am constantly learning new ways to enhance user experience through technology.<br>
  <br>
 👾 I don’t always test my code, but when I do, I do it in production.<br>
