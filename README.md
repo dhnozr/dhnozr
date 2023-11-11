@@ -1,4 +1,5 @@
 # 👋Hey there! I'm Duhan
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 👾 I don’t always test my code, but when I do, I do it in production.<br>
 💡 Master of `git commit -m "oops, fix typo"`.<br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
