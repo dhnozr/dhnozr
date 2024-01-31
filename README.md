@@ -9,7 +9,6 @@
   I'm a Junior Frontend Developer with a passion for creating user-friendly, dynamic web applications. I believe in writing clean, efficient code and am constantly learning new ways to enhance user experience through technology.
   <h2><img src="https://github.com/dhnozr/dhnozr/assets/115792609/1bb6bff1-22f8-402e-bee2-017c0a2cf60c" width="30"/> My Skills</h2>
   <p>👾 I don’t always test my code, but when I do, I do it in production.</p>
-  <p>💡 Master of `git commit -m "oops, fix typo"`</p>
  <h2 inline><img src="https://github.com/dhnozr/dhnozr/assets/115792609/79d0363c-d87a-40d0-afe6-4c3b100ff00d" width="30"/> Life-Time Learner</h2>
  <p>As a junior front-end developer, I believe in the power of continuous learning and adapting to the ever-evolving tech landscape. My approach is hands-on and curiosity-driven, always seeking to understand the 'why' behind the 'how'.</p>
 
