@@ -4,9 +4,8 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="300" height="300" align="right"  />
 <div>
-  I'm a Junior Frontend Developer with a passion for creating user-friendly, dynamic web applications. I believe in writing clean, efficient code and am constantly learning new ways to enhance user experience through technology.
+  I'm a Frontend Developer with a passion for creating user-friendly, dynamic web applications. I believe in writing clean, efficient code and am constantly learning new ways to enhance user experience through technology.
   <h2><img src="https://github.com/dhnozr/dhnozr/assets/115792609/1bb6bff1-22f8-402e-bee2-017c0a2cf60c" width="30"/> My Skills</h2>
   <p>👾 I don’t always test my code, but when I do, I do it in production.</p>
   <p>💻 I tell my computer what to do; it takes it as a suggestion.</p>
@@ -14,7 +13,7 @@
  <p>As a junior front-end developer, I believe in the power of continuous learning and adapting to the ever-evolving tech landscape. My approach is hands-on and curiosity-driven, always seeking to understand the 'why' behind the 'how'.</p>
 
 </div> 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
 
 ## 🌐 Socials:
