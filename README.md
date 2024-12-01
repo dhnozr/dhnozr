@@ -12,7 +12,7 @@
 <br/>
 
 - ⚙️ I use daily: `.react`, `.vue`, `.typescript`, `.js`, `.html`, `.css`
-- 📔 Learning: Exploring `.node.js` `.angular` and  sharpening my skills with best practices.
+- 📔 Learning: `.node.js` `.angular` and  sharpening my skills with best practices.
 - ⚡ Databases & Tools: `.supabase`, `.firebase`, `.tanstack`, `.zustand`, `.redux`
 - 💬 `.ping` me if you like
 
