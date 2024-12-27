@@ -11,9 +11,8 @@
 </div> 
 <br/>
 
-- ⚙️ I use daily: `.react`, `.vue`, `.typescript`, `.js`, `.html`, `.css`
-- 📔 Learning: `.node.js`
-- ⚡ Databases & Tools: `.supabase`, `.firebase`, `.tanstack`, `.zustand`, `.redux`
+- ⚙️ I use daily: `.react`, `.vue`, `.typescript`, `.html`, `.css`
+- 📔 Learning: `.laravel`
 - 💬 Feel free to `.ping` me if you’d like to connect or collaborate!
 
 
